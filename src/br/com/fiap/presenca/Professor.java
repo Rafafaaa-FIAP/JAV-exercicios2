@@ -1,7 +1,5 @@
 package br.com.fiap.presenca;
 
-import java.util.Scanner;
-
 public class Professor extends Pessoa {
 	
 	private String inscricao;
